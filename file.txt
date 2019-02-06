@@ -1,0 +1,6 @@
+This 
+should 
+be 
+one 
+commit 
+only.
