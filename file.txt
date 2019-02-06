@@ -1,2 +1,4 @@
 Foo
 And now for something different...
+Bar
+
