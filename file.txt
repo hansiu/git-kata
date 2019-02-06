@@ -1,6 +1,7 @@
-Title goes here
+My favorite colors
 ===============
 
 These are:
+ * black
  * red
  * blue
